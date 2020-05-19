@@ -35,4 +35,4 @@ between pictures easily.
 
 Set images to auto-rotate or pause the rotation.
 
-![auto rotate](doc/auto-rotate)
+![auto rotate](doc/auto-rotate.png)
